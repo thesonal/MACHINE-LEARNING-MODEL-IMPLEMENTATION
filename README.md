@@ -87,6 +87,4 @@ This score can help prioritize alerts or highlight suspicious senders in dashboa
 
 ## OUTPUT
 
-
-
-## 📌 Repository Structure
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/bc96c247-41a3-4aab-845f-5701f39c4238" />
